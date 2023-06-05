@@ -1,0 +1,10 @@
+python-telegram-bot==13.7
+openai==0.27.6
+python-dotenv
+boto3
+azure
+azure-cognitiveservices-speech
+soundfile
+numpy
+googletrans==4.0.0-rc1
+pymongo
